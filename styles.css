@@ -48,7 +48,7 @@ li{
     width: 100%;
     height: 800px;
     /* background-image: url(http://britannia.co.in/images/Tiger_Desktop.jpg); */
-    background-image: url(./img/img2.jpg);
+    background-image: url(/img/img2.jpg);
     background-size: cover;
     
 }
